@@ -3,7 +3,8 @@
  
 
 
-echo "# nodeJS-OC" >> README.md 
+echo "# nodeJS-OC" >> README.md
+
 echo "phase1" >> .gitignore
 
 git init
