@@ -23,3 +23,6 @@ git branch
 git remote add origin https://github.com/gforestier2000/nodeJS-OC.git
 
 git push -u origin main
+
+## Création d'un dossier phase1
+Il contient un frontend fournit par OpenClassRoom et un backend
