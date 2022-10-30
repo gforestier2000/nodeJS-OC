@@ -2,6 +2,7 @@
 
  
 
+## Mise en place de git
 
 echo "# nodeJS-OC" >> README.md
 
